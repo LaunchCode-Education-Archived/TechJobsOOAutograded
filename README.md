@@ -63,4 +63,4 @@ Will an additional job be printed with a unique ID? Create a new
 
 ## Submitting Your Work
 
-To submit your work please following the [Submission Instructions](https://education.launchcode.org/charp-web-development/assignments/hello-world.html#submitting-your-work)
+To submit your work please following the [Submission Instructions](https://education.launchcode.org/csharp-web-development/assignments/hello-world.html#submitting-your-work)
